@@ -1,0 +1,7 @@
+{
+  "name": "marks_tool",
+  "version": "0.1.0",
+  "title": "Marks",
+  "main": "plugin.py",
+  "description": "Ctrl+M marks the current time with a note from the selected topic; the marks are kept per file and exported as CSV."
+}

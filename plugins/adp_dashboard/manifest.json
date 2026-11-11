@@ -1,0 +1,7 @@
+{
+  "name": "adp_dashboard",
+  "version": "0.1.0",
+  "title": "ADP dashboard",
+  "main": "plugin.py",
+  "description": "Ego speed and path from Adp.OdometryState: a converter, a gauge panel, a report and an MCP tool."
+}
